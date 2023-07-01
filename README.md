@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![](F:\projects_for_resume\flutter_dribble_challeng\Screen_Recording.gif)
+![ui](../flutter_dribble_challeng/Screen_Recording.gif)
