@@ -1,4 +1,4 @@
-# projects_for_resume
+# Travel App Design
 
 A new Flutter project.
 
